@@ -1,4 +1,7 @@
 # Imteyaz Ahmad
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  </head>
 <div style="text-align: justify; margin-top: 10px;margin-bottom: 10px">
 Experienced Principal Full Stack Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Java, Web Services( SOAP and REST), Spring Framework and Hibernate. Strong engineering professional with a Master of Technology (M.Tech.) focused in Biotechnology and Biochemical Engineering from Indian Institute of Technology, Kharagpur.</div>
 
