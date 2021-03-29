@@ -14,6 +14,7 @@ Organization: [Cognologix Technologies Pvt Ltd](https://cognologix.com/)
 * Evaluate new tools and technologies to use in project
 
 Lead Senior Software Engineer &nbsp; &nbsp;&nbsp;   &nbsp; &nbsp;&nbsp;               Sep 2019 - Nov 2019
+
 Organization: [Clairvoyant Software India Private Limited](http://clairvoyantsoft.com/)
 #### Role Description
 * Mentoring and leading team
